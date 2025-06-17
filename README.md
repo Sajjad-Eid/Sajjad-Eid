@@ -1,7 +1,7 @@
 ## Hi there 👋
 **My name is Sajjad Ebrahim.**
 
-**I study in UNIVERSITY OF BAHRAIN (BSc in Computer Science)**
+**I am pursuing a Bachelor of Science in Computer Science at The University of Bahrain, where I am gaining essential skills and knowledge to excel in the tech industry.**
 
 ---
 **TECHNICAL SKILLS:**
