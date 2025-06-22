@@ -11,7 +11,7 @@
 ---
 **LEARING:**
 
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Alt Text" width="50" height="50"><img src="https://skillicons.dev/icons?i=python,js," alt="Alt Text">
+<img src="https://skillicons.dev/icons?i=kotlin,js," alt="Alt Text">
 <!--
 **Sajjad-Eid/Sajjad-Eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
