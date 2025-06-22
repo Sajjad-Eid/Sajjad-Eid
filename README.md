@@ -11,7 +11,7 @@
 ---
 **LEARING:**
 
-<img src="https://skillicons.dev/icons?i=kotlin,js," alt="Alt Text">
+<img src="https://skillicons.dev/icons?i=kotlin,Postgres,js,ts,vite,redux" alt="Alt Text">
 <!--
 **Sajjad-Eid/Sajjad-Eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
